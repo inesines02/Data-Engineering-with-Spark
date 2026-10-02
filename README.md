@@ -1,4 +1,4 @@
-# CE Big Data Processing — Fall 2026
+# ECE Big Data Processing — Fall 2026
 
 ## Lab / Project Group
 
